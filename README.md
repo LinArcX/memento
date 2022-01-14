@@ -7,37 +7,49 @@ A personal approach to controlling rogue time.
 
 Leonard Shelby
 
-![Demo](./memento.jpg)
+![Demo](./assets/memento.jpg)
 
 ## Definitions
 - Time can divide into three era: _past_, _present_ and _future_.
-- But era is more rebel that we can imagine. So we should trap it in more short-period boundries. I call those boundries: **TimeBoxes**
-- In every timebox, you define at least one **Goal**.
-- Goals Can be either: **Routines** or **Jobs** or both of them.
+- But era is more rebel that we can imagine. So we should trap it in more short-period boundaries. I call those boundaries: **TimeBoxes**
+- From this point you just see timeboxes. There are no opaque words like past, present and future.
+- Every timebox has _only one_ **StartPoint** and _only one_ **EndPoint**.
+- In any timebox, you define _at least_ one **Goal**.
+- Goals can consist of: **Routines** or **Jobs** or both of them.
   - A Job consist of at least one **Task**.
-- Jobs, tasks, routines have a time boundary.(start and end point.)
-- Every timebox has at least one **Outcome**.
-- Every job/routine has only one outcome.
+- Jobs, tasks, routines also have a time boundary.(startpoint and endpoint.)
+- Every timebox has _at least_ one **Outcome**.
+- Every job/routine has _only_ one outcome.
 - Outcome is a number between 0% - 100%.
 - Routines/jobs/tasks should have **Priorities**.
 - The steps that you follow to do a specific routine or job are called: **Recipe**.
   - Recipes can be shared by people.
-- For the present era, you have only one timebox.
-  - Present timebox duration is up to you. It can be one day, one week, two weeks, one month, etc..
-- Past is past. Look at it as a treasure or a way to be more productive in the Present/Future era.
-- **Experiences** are the outcome of timeboxes in the past era.
-- **Plans** are timeboxes defined for the future era.
-- Future is a trap. Define Plans only for a specific period of time in the future.
-- For the future era, you’re free to define your timeboxes as longs as you define goals for them.
-- If you can’t define at least one timebox, don't plan!
-- Sometimes you can’t predict a specific **Event** in your life.
-- So you should have **Buffers** in your timeboxes.
-- You can define goals for your buffers. If no event occurred, follow them.
-- Assign a portion of every timebox for buffers.(something between 5% and 45%)
+- In every moment, you should be in a timebox.
+- TimeBoxes don't overlap with each other.
+- Timebox duration is up to you. It can be one hour, one day, one week, two weeks, one month, one year, etc..
+- You can **Chain** timeboxes as long as you have goals for every timebox.
+- Past are just collection of timeboxes that their lifetime were finished. (Look at it as a treasure or a way to be more productive in the Present/Future era.)
+- **Experiences** are the outcome of timeboxes that their endpoints are less than current time.
+- **Plans** are timeboxes that their startpoint are greater than current time.
+  - If you can’t define at least one timebox, don't plan!
+- But time is not always manageable.
+- You can get sick. There may be an earthquake in your city. Or any other accidents that are beyond your control. How deal with them?
+- We call these unpredictable accidents: **Events**.
+- So you should have **Buffers** in your timeboxes to deal with events.
+- You should define goals for your buffers. If no event occurred, follow them.
+- Assign a portion of every timebox for buffers.(something between 5% and 20% is reasonable)
 
 
-# Keywords
-- Era
+## How use this approach?
+
+The simplest way is to write your own recipes/timeboxes on a paper and start following them :)
+To help you get the idea, i included a simple recipe in this repo.
+
+But the better way is to transform this approach to a software. So if you're a programmer, you're free to implement this specification
+in any kind of software form that you like. (A library, an android app, a desktop app, etc..)
+
+
+## Keywords
 - TimeBox
 - Goal
 - Routine
@@ -50,5 +62,9 @@ Leonard Shelby
 - Plans
 
 
-# Diagram
-![timebox](./timebox.png)
+## Contribution
+- If you have any idea to improve this approach, please let me know :)
+- Also you can share your recipes with other people. Just create a PR for each recipe.
+
+## Diagram
+![timebox](./assets/timebox.png)

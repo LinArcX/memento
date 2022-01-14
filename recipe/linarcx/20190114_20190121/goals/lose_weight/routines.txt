@@ -1,0 +1,3 @@
+- exercise every morning from 7:00AM to 7:20AM. >> p:Critical
+- have a good and healthy diet. >> p:Critical
+  - eat milk and fruits for the breakfast. >> p:Important

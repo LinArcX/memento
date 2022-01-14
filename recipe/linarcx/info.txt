@@ -1,0 +1,5 @@
+timebox_period: 7d
+buffer_percent: 14%
+buffer_equivalent: 1d
+scheduled_days: 2022_01_14 2022_01_20
+buffer_days: 2022_01_21
