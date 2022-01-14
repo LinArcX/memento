@@ -3,17 +3,11 @@
 A personal approach to controlling rogue time.
 
 ## Qoute
->> “Memory’s not perfect. It’s not even that good. Ask the police. Eyewitness testimony is unreliable. The cops don’t catch a killer by sitting around remembering stuff. They collect facts, they make notes and they draw conclusions. Facts, not memory.”
-    Leonard Shelby
+> “Memory’s not perfect. It’s not even that good. Ask the police. Eyewitness testimony is unreliable. The cops don’t catch a killer by sitting around remembering stuff. They collect facts, they make notes and they draw conclusions. Facts, not memory.”
+
+Leonard Shelby
 
 ![Demo](./memento.jpg)
-
-
-<h1 align="center">
-    <a href="./memory.jpg"><img src="./memento.jp"></a>
-    <br/>
-    <h4 align="center">Creating a bootable USB with kindd. <a href="https://github.com/LinArcX/kindd/issues/10">[more]</a></h4>
-</h1>
 
 ## Definitions
 - Time can divide into three era: _past_, _present_ and _future_.
